@@ -1,0 +1,18 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/154/hvd.32044015473820/736.png"; bbox 0 0 1978 3144; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1218 0 1842 178">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1262 53 1781 117">
+     <span class='ocr_line' id='line_1_1' title="bbox 1262 53 1716 81; baseline -0.009 -7"><span class='ocrx_word' id='word_1_1' title='bbox 1262 60 1263 74; x_wconf 58' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 1325 54 1327 70; x_wconf 68' lang='grc' dir='ltr'>ἱ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1403 53 1487 78; x_wconf 54' lang='grc' dir='ltr'><strong>ηἲρζη</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1617 74 1618 81; x_wconf 22' lang='grc' dir='ltr'>γ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1715 66 1716 70; x_wconf 55' lang='grc' dir='ltr'><strong>η</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1293 81 1781 117; baseline -0.008 -7"><span class='ocrx_word' id='word_1_6' title='bbox 1293 81 1326 98; x_wconf 60' lang='lat'>&quot;</span> <span class='ocrx_word' id='word_1_7' title='bbox 1359 81 1372 105; x_wconf 48' lang='grc' dir='ltr'><strong><em>Ϋ</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1499 101 1500 109; x_wconf 55' lang='grc' dir='ltr'><strong>η</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1561 83 1716 117; x_wconf 39' lang='grc' dir='ltr'><strong>ρλρξῦμη</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1780 103 1781 106; x_wconf 51' lang='grc' dir='ltr'><strong>η</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 2850 1924 3144">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 2854 1300 3144">
+     <span class='ocr_line' id='line_1_3' title="bbox 777 2957 1225 2984; baseline 0 -21"><span class='ocrx_word' id='word_1_11' title='bbox 777 2958 778 2984; x_wconf 33' lang='grc' dir='ltr'><strong>η</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1222 2957 1225 2963; x_wconf 75' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 0 2854 1300 3144; baseline 0.002 -2"><span class='ocrx_word' id='word_1_13' title='bbox 0 3054 636 3144; x_wconf 59' lang='lat'><strong>&#39;—_</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
